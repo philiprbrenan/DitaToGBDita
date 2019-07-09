@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Task//EN" "concept.dtd" []>
+<concept id="a">
+  <title>aaaa</title>
+  <conbody/>
+
+  <concept id="ab">
+    <title>aaaa bbbb</title>
+    <conbody>
+      <p conref="b.xml#b/p1"/>
+    </conbody>
+
+    <concept id="ac">
+      <title>aaaa cccc</title>
+      <conbody>
+        <p conref="bb.xml#bb/p2"/>
+      </conbody>
+    </concept>
+  </concept>
+
+  <concept id="ad">
+    <title>aaaa dddd</title>
+    <conbody>
+      <p conref="b.xml#b/p3"/> <!--invalid-->
+    </conbody>
+  </concept>
+</concept>

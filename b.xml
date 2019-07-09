@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Task//EN" "concept.dtd" []>
+<concept id="b">
+  <title>bbbb</title>
+  <conbody>
+    <p id="p1">1111</p>
+  </conbody>
+
+  <concept id="ba">
+    <title>bbbb aaaa</title>
+    <conbody/>
+    <concept id="bb">
+      <title>bbbb bbbb</title>
+      <conbody>
+        <p id="p2">2222</p>
+      </conbody>
+    </concept>
+  </concept>
+
+  <concept id="bc">
+    <title>bbbb cccc</title>
+    <conbody>
+      <p id="p3">3333</p>
+    </conbody>
+  </concept>
+</concept>
