@@ -1,2 +1,2 @@
-# DitaToGBDita
-Convert Dita to the (https://metacpan.org/pod/Dita::GB::Standard "GB Standard")
+# Dita To GB Dita
+Convert Dita to the [GB Standard](https://metacpan.org/pod/Dita::GB::Standard)
